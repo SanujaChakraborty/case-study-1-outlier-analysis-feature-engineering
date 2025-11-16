@@ -88,12 +88,12 @@ We compared the following models:
 ```
 ### Evaluation Metrics
 ```
-- **MSE (Mean Squared Error)**  
-- **R² Score**
+- MSE (Mean Squared Error)  
+- R² Score
 ```
 ### Findings
 ```
-- **Random Forest performed best** with lowest MSE & highest R².
+- Random Forest performed best with the lowest MSE & the highest R².
 - Linear Regression underperformed due to its inability to model complex patterns.
 - Ridge & Lasso provided moderate improvement through regularization.
 ```
