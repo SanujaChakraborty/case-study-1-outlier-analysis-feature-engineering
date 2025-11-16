@@ -105,8 +105,8 @@ Performed **Grid Search CV** to optimize hyperparameters.
 
 ### Example:
 ```
-- Ridge Regression → Tuned **alpha**  
-- Best alpha found: **1.0**
+- Ridge Regression → Tuned alpha  
+- Best alpha found: 1.0
 ```
 
 ### Why Tuning Matters?
